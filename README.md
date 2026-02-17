@@ -12,7 +12,7 @@ This repository tracks my daily learning, practice files, and progress as I buil
 ### 📌 What I Learned
 - Basics of HTML  
 - Structure of an HTML document  
-- Essential tags ('<html>','<head>','<title>','<body>','<h1>','<p>')  
+- Essential tags  ( html, head ,title ,body ,h1 ,p1)  
 - Created my first webpage 💻  
 
 ---
