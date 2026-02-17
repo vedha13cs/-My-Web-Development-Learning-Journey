@@ -12,11 +12,8 @@ This repository tracks my daily learning, practice files, and progress as I buil
 ### 📌 What I Learned
 - Basics of HTML  
 - Structure of an HTML document  
-- Essential tags (<html>, <head>, <title>, <body>, <h1>, <p>)  
+- Essential tags ('<html>','<head>','<title>','<body>','<h1>','<p>')  
 - Created my first webpage 💻  
-
-### 🧠 Key Takeaway
-HTML (HyperText Markup Language) is the foundation of every website. It defines the structure and content displayed in a browser.
 
 ---
 
