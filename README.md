@@ -11,7 +11,7 @@ This repository contains my daily learning and practice work.
 ### What I Learned
 - Basics of HTML  
 - Structure of HTML document  
-- Important HTML elements like html, head, title, body, heading, paragraph  
+- Important HTML elements  
 - Created my first webpage  
 
 ### Key Takeaway
@@ -35,10 +35,17 @@ Text formatting helps to make webpage content clear and readable.
 
 ---
 
-## 💻 Files Uploaded
-- text_formatting_day2.html
+## 📅 Day 3 – HTML Lists
 
----
+### What I Learned
+- How to create bullet lists  
+- How to create number lists  
+- How to create list inside another list  
+
+### Key Takeaway
+Lists help to organize information in clear and structured way.
+  
+  ---
 
 ## 🎯 Goal
 I want to improve step by step in:
