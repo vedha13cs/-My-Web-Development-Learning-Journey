@@ -46,6 +46,19 @@ Text formatting helps to make webpage content clear and readable.
 Lists help to organize information in clear and structured way.
   
   ---
+## 📅 Day 4 – Links and Images
+
+### What I Learned
+- How to create website links  
+- How to connect one page to another page  
+- How to add images in webpage  
+- Basic image display  
+
+### Key Takeaway
+Links help users navigate between pages.  
+Images help make websites more attractive and informative.
+
+---
 
 ## 🎯 Goal
 I want to improve step by step in:
