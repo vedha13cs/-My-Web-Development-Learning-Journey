@@ -60,6 +60,20 @@ Images help make websites more attractive and informative.
 
 ---
 
+## 📅 Day 5 – HTML Tables
+
+### What I Learned
+- How to create tables in web pages  
+- How to create rows and columns  
+- How to add headings to tables  
+- How to display data in table format  
+
+### Key Takeaway
+Tables help to organize data in rows and columns.  
+They make information easy to read and understand.
+
+---
+
 ## 🎯 Goal
 I want to improve step by step in:
 - HTML  
