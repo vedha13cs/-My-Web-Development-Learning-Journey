@@ -84,6 +84,20 @@ They make information easy to read and understand.
 I learned how webpages can include icons and structured elements properly.
 
 ---
+## 📅 Day 7 – Portfolio Mini Project
+
+### What I Learned
+- How to create a simple portfolio webpage  
+- How to combine headings, paragraphs, lists, and tables  
+- How to add a contact form in a webpage  
+- How to structure a complete webpage using sections  
+
+### Key Takeaway
+Today I created my first simple portfolio webpage.  
+I learned how to combine multiple HTML concepts into one complete project.
+
+-----
+
 ## 🎯 Goal
 I want to improve step by step in:
 - HTML  
